@@ -1,3 +1,5 @@
+# РЕШЕНИЕ ДУ МЕТОДОМ ЭЙЛЕРА, КОШИ И ТЕЙЛОРА 2 ПОРЯДКА
+
 import matplotlib.pyplot as plt
 from math import e
 import numpy as np
